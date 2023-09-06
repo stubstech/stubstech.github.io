@@ -1,3 +1,19 @@
++++
+author = "s0vi"
+title = "Running .e01 in VirtualBox"
+date = "2023-05-04"
+description = "A nice howto for own reference"
+tags = [
+    "e01",
+    "virtualbox",
+    "tools",
+]
+categories = [
+    "forensics",
+    "tools",
+]
++++
+
 Doing forensically sound investigations running a image live. Excellent to show what the user might have seen.
 
 ## Requirements
