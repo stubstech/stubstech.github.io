@@ -1,7 +1,7 @@
 baseURL = "https://stubstech.githubpages.io"
 languageCode = 'en-us'
 title = 'Stubstech'
-theme = "hugo-theme-flat-main"
+theme = "hugo-theme-flat"
 
 
 enableRobotsTXT = true
