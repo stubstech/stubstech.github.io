@@ -16,7 +16,7 @@ categories = [
 +++
 
 When handling an incident or just doing some research, memory comes into play. Doing a forensically sound memory acquisition on a VMWare Workstation server is not hard, but there are some pitfalls and things we should be aware of.
-
+<!--more-->
 ## The files we need
 Fortunately Volatility reads VMWare vmem files, but we need some metadata about the structure of the file.
 

@@ -14,7 +14,7 @@ categories = [
 ]
 +++
 
-Doing forensically sound investigations running a image live. Excellent to show what the user might have seen.
+Doing forensically sound investigations running a image live. Excellent to show what the user might have seen. <!--more-->
 
 ## Requirements
 Install Virtual Box and FTK Imager. Mount the image to Drive. Not sure if you need both Physical & Logical (to be testet).
