@@ -32,4 +32,4 @@ Create a new Virtual Machine. Choose the correct OS and remember to use UEFI if 
 
 If you forgot the password to the account, make sure to have an USB handy and use a password tool. Enable USB Controll and use USB 2.0.
 
-SATA usually worsk, but you might change the harddrive to a SCSI if it doesnt.
+SATA usually works, but you might change the harddrive to a SCSI if it doesn't.
