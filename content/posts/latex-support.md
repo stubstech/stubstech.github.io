@@ -6,7 +6,7 @@ categories: []
 weight: 50
 show_comments: true
 katex: true
-draft: false
+draft: true
 ---
 
 This article contians some test for latex support. Currently the lib used for rendering LaTeX is [\\(\KaTeX\\)](https://katex.org/)
