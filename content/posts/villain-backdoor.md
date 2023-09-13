@@ -26,5 +26,10 @@ Securonix Threat Labs has done threat research on the subject, and I urge you to
 ## Indicators of Compromise
 I was also in the process of relearning volatility (going from vol2 to vol3) and learning how to write and use yara rules. 
 
+## Detection
+While I did some research using volatility3 and used the windows.cmdline.CmdLine module, I forgot that I had Defender enabled.
+Defender took action and deleted the file containing the payload under the name "Trojan:PowerShell/ReverseShell.SA". Note that I did not obfuscate or encode the payload.
+
 Resources:
 * https://www.securonix.com/blog/hoaxshell-villain-powershell-backdoor-generator-payloads-in-the-wild-and-how-to-detect-in-your-environment/
+* [Microsoft Description](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?name=Trojan%3APowerShell%2FReverseShell.SA&threatid=2147792911&enterprise=1)

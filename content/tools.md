@@ -21,7 +21,7 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
 
 ## Tools I have made
 
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
+Work in progress! Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
 
    Name | Version | Link
 --------|---------|-------

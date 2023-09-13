@@ -1,23 +1,23 @@
 +++
 author = "s0vi"
-title = "Incident response methodology"
-date = "2023-08-06"
-description = "My take on incident response methodology"
+title = "Incident response and Powershell!"
+date = "2023-05-06"
+description = "Powershell snippets useful for IR"
 tags = [
-    "methodology",
+    "powershell",
     "IR",
 ]
 categories = [
-    "methodology",
+    "howto",
     "incident response",
 ]
-draft = true
+draft = false
 +++
 
-These are my thoughts on incident response methodology, and how I work and think.
+These are some handy snippets of powershell commands used to get a basic live data forensics (LDF).
 <!--more-->
 ## Overview and background
-Methodology is 
+We need as much relevant information we can get ASAP. I've analyzed numerous dead systems, where some information can be really hard to find, but easy to find on a live system. This is due to differences between Windows 10/11 and 
 
 ## NIST Methodology
 
