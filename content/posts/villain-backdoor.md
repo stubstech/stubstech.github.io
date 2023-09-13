@@ -13,6 +13,7 @@ categories = [
     "forensics",
     "incident response",
 ]
+draft = true
 +++
 Hoaxshell/Villain Powershell Backdoor Generator Payloads in the  Wild, and How to Detect in Your Environment.
 <!--more-->

@@ -11,7 +11,7 @@ categories = [
     "howto",
     "incident response",
 ]
-draft = false
+draft = true
 +++
 
 These are some handy snippets of powershell commands used to get a basic live data forensics (LDF).
